@@ -1,2 +1,16 @@
-# responsive-adidas-landing-page
-Responsive Adidas landing page using HTML &amp; CSS only
+# Responsive Adidas Landing Page
+
+A modern and responsive Adidas landing page built using only HTML and CSS.
+
+## Features
+
+* Responsive layout
+* Modern UI design
+* Navigation bar
+* Product showcase section
+* Clean styling with CSS
+
+## Technologies Used
+
+* HTML5
+* CSS3
